@@ -1,6 +1,6 @@
 # LAB-OOP-9-2026
 
-# Repositori Tugas Praktikum WEB 2025
+# Repositori Tugas Praktikum OOP 2026
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
@@ -14,7 +14,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-WEB-11-2025.git
+   git clone https://github.com/YOUR_USERNAME/LAB-OOP-9-2026.git
 
    ```
 
@@ -22,7 +22,7 @@
 
    ```sh
 
-   cd LAB-WEB-11-2025
+   cd LAB-OOP-9-2025
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
