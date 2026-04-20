@@ -15,6 +15,10 @@ class Product {
         this.stock = stock;
     }
 
+    public String getBrand() {
+        return brand;
+    }
+
     public int getStock() {
         return stock;
     }

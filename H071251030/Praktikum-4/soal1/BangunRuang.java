@@ -31,8 +31,8 @@ class Balok extends BangunRuang {
     Balok(int panjang, int lebar, int tinggi) {
         this.nama = "Balok";
         this.panjang = panjang;
-        this.panjang = lebar;
-        this.panjang = tinggi;
+        this.lebar = lebar;
+        this.tinggi = tinggi;
     }
 
     @Override
